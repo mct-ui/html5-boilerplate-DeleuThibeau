@@ -10,6 +10,7 @@ line-height: 1.5;
 font-family: "Helvetica Neue", helvetica, Arial, Helvetica, sans-serif;
 color: #111;
 padding: 24px 24px 0 24px;
+scroll-behavior: smooth;
 }
 /*
  * Remove text-shadow in selection highlight:
